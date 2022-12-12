@@ -1,4 +1,4 @@
-# FOOD BLOG TEMPLATE 
+# FOOD BLOG TEMPLATE
 
 ## AUTHOR
 BOANONG JOSHUA
@@ -22,7 +22,7 @@ This is a Food site template. The project was taken as a learning tutorial to he
  you should have Knowledge about:
 
 - GitHub
-- css grids and flex box
+- CSS grids and flex box
 - and an available working browser
 
 ## Clone project
@@ -40,7 +40,7 @@ This is a Food site template. The project was taken as a learning tutorial to he
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/boanong/Foodblog/issues.
+Feel free to check the [issues page](https://github.com/boanong/Foodblog/issues.)
 
 ## 📝 License (optional)
 
